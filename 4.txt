@@ -1,0 +1,8 @@
+About 1 year ago, myself and 2 others made a simplified 2D version of dungeons and dragons in C++. 
+None of us had ever used C++ let alone MFC, what we used for the GUI, 
+but we all agreed that the best way to learn a language is by actually working on a project.
+We both learned, and used several design patterns including: observer and factory, for efficiency as well as flexibility. 
+This project was a great way to learn C++, and the difference between it and Java, the only other language we had previously used.
+The result was a functional, although not visually appealing, turn based  game
+where the players were able to make their own custom maps where they could choose what obstacles, treasure chests and monsters could be added to it.
+Users were also able to make their own characters, attack and be attacked by monsters, level up, and move on to the next level. 
